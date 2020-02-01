@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\users\ywjys\documents\visual studio 2015\sun\xml_test\xml_test\main.cpp(52): error C2374: “FPQQLSH_text”: 重定义；多次初始化
+  d:\users\ywjys\documents\visual studio 2015\sun\xml_test\xml_test\main.cpp(45): note: 参见“FPQQLSH_text”的声明
